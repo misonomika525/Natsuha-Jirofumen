@@ -1,6 +1,6 @@
 # Camellia-JiroFumen
 
-谱面存放处。
+谱面存放处。（-○○Style- 为重编曲）
 
 如需上传至Taiko-Web，请以此处的谱面数据为准（难度数值除外）。
 
