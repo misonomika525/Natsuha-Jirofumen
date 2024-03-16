@@ -1,0 +1,791 @@
+﻿//TJADB Project
+TITLE:Asu no Yozora Shoukaihan
+TITLEJA:アスノヨゾラ哨戒班
+SUBTITLE:--Orangestar feat. IA
+SUBTITLEJA:Orangestar
+BPM:185
+WAVE:main.ogg
+OFFSET:-1.153
+DEMOSTART:34.444
+
+COURSE:Oni
+LEVEL:9
+BALLOON:6,5
+SCOREINIT:410
+SCOREDIFF:90
+
+
+#START
+
+
+#MEASURE 1/4
+#BARLINEOFF
+0
+#LYRIC Kibun shidai desu boku wa
+000,
+#MEASURE 4/4
+#BARLINEON
+1,
+100
+#LYRIC Teki o erande tatakau shounen
+00000,
+1,
+100
+#LYRIC Kanaetai mirai mo nakute
+00000,
+1,
+100
+#LYRIC Yume ni egakareru no o matteta
+00000,
+1,
+10000
+#LYRIC Sono kuse mirai ga kowakute
+000,
+1000102010201022,
+102010
+#LYRIC Asu o kiratte kako ni negatte
+2010221020,
+1000102010201022,
+102010
+#LYRIC Mou doushiyou mo nakunatte sakebun da
+2010221020,
+1000102010201022,
+1020102010
+#LYRIC “Asu yo asu yo mou konaide yotte”
+221020,
+1000102010201022,
+102010201022
+#LYRIC Sonna boku o oite
+1020,
+1,
+2000000
+#LYRIC Tsuki wa shizumi hi wa noboru
+0,
+1,
+20000
+#LYRIC Kedo sono yo wa chigattan da
+000,
+1020102010221020,
+1022102010
+#LYRIC Kimi wa boku no te o
+221020,
+1020202210202022,
+1020202210202022,
+5,
+000000000000000008000000
+#LYRIC Sora e mau sekai no kanata
+300000000000000000000000,
+
+#GOGOSTART
+1011201110112011,
+10112011102020
+#LYRIC Yami o terasu kaisei
+11,
+1011201110112050,
+000008000000700000000000000000800000300000300000,
+0011
+#LYRIC “Kimi to boku mo sa,
+201110222011,
+1011201110
+#LYRIC mata asu e mukatte ikou”
+202011,
+1011201110222011,
+10202012
+#LYRIC “Yume de owatte shimau no naraba
+12102030,
+0010201110112011,
+10112011102020
+#LYRIC kinou o kaesasete”
+11,
+1011201110112050,
+000008000000700000000000800000300000000000
+#LYRIC Nante iwanai kara
+300000,
+0010201110222011,
+1011201110
+#LYRIC Mata asu mo kimi to kou yatte
+202011,
+1011201110222011,
+102020
+#LYRIC Warawasete
+121210205
+#LYRIC Warawasetee
+0,
+#LYRIC Warawaseteee
+0
+#LYRIC Warawaseteeee
+0
+#LYRIC Warawaseteeeee
+0
+#LYRIC Warawaseteeeeee
+0
+#LYRIC Warawaseteeeeeee
+0
+#LYRIC Warawaseteeeeeeee
+0
+#LYRIC Warawaseteeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeee
+0,
+#LYRIC Warawaseteeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeee
+0,
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeeee
+0
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeeeee
+0,
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeeeeee
+000000
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeeeeeee
+000000
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeeeeeeee
+000008
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+000000
+#LYRIC Warawaseteeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+600000000008000000300000,
+#LYRIC 
+0011201110112010,
+2011201110112010,
+2011201110112010,
+2011201212102030,
+0011201110222010,
+2011201110222010,
+2011201110222010,
+2011201212102030,
+0011202210112010,
+2011202210112010,
+2011202210112010,
+2011201212
+#LYRIC Mata ashita no yoru ni
+102020,
+1011201120112210,
+10112011201222
+#LYRIC Ai ni ikou to omou ga
+10,
+1011201120112210,
+10221010221000
+#LYRIC Doukana kimi wa inai kana
+30,
+0011102011102011,
+201020
+#LYRIC Soredemo itsumademo bokura hitotsu dakara
+1122102011,
+1020111020112010,
+201120121
+#LYRIC Mata ne Sky Arrow waratteyou
+2102030,
+0011201120112210,
+1011201120122210,
+1011201120112210,
+1022
+#LYRIC Mirai o sukoshi demo kimi to itai kara
+101022100030,
+0011102011102011,
+201020
+#LYRIC Sakebou
+11221020
+#LYRIC “Kyou no hi o itsuka omoidase
+11,
+1020111020112010,
+201120
+#LYRIC mirai no bokura”
+1212102010,
+05
+#LYRIC mirai no bokuraa”
+0
+#LYRIC mirai no bokuraaa”
+0
+#LYRIC mirai no bokuraaaa”
+0
+#LYRIC mirai no bokuraaaaa”
+0
+#LYRIC mirai no bokuraaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaa”
+0,
+#LYRIC mirai no bokuraaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaa”
+0,
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaaaa”
+0
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaaaaa”
+0,
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaaaaaa”
+000000
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaaaaaaa”
+000000
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaaaaaaaa”
+000008
+#LYRIC mirai no bokuraaaaaaaaaaaaaaaaaaaaaaaaaaa”
+000000
+#LYRIC A
+600000000008000000300000,
+#LYRIC Aa
+00
+#LYRIC Aaa
+11
+#LYRIC Aaaa
+20
+#LYRIC Aaaaa
+11
+#LYRIC Aaaaaa
+10
+#LYRIC Aaaaaaa
+11
+#LYRIC Aaaaaaaa
+20
+#LYRIC Aaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaa
+22
+#LYRIC Aaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+12
+#LYRIC A
+12102030,
+#LYRIC Aa
+00
+#LYRIC Aaa
+11
+#LYRIC Aaaa
+20
+#LYRIC Aaaaa
+22
+#LYRIC Aaaaaa
+10
+#LYRIC Aaaaaaa
+22
+#LYRIC Aaaaaaaa
+20
+#LYRIC Aaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaa
+22
+#LYRIC Aaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaa
+22
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaa
+22
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+21
+#LYRIC A
+21202030,
+#LYRIC Aa
+00
+#LYRIC Aaa
+11
+#LYRIC Aaaa
+20
+#LYRIC Aaaaa
+11
+#LYRIC Aaaaaa
+22
+#LYRIC Aaaaaaa
+11
+#LYRIC Aaaaaaaa
+20
+#LYRIC Aaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaa
+21
+#LYRIC Aaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaa
+22
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaa
+11,
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaa
+10
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaa
+11
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+20
+#LYRIC Aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+12
+#LYRIC A
+12102030,
+
+#GOGOEND
+#LYRIC 
+
+
+#END
+
+
+COURSE:Hard
+LEVEL:7
+BALLOON:27
+SCOREINIT:520
+SCOREDIFF:110
+
+
+#START
+
+
+#MEASURE 1/4
+#BARLINEOFF
+,
+#MEASURE 4/4
+#BARLINEON
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1112,
+1112,
+1112,
+1112,
+10101210,
+10101210,
+10101210,
+10101210,
+1,
+2,
+1,
+2,
+10101210,
+10101210,
+11121112,
+11121112,
+5,
+000000000000000000000008000000000000000000000000,//26
+
+#GOGOSTART
+10201120,
+1110101010002000,
+1110200011102050,
+000000000000000000000008000000000000300000300000,
+01201120,
+1110200010102000,
+1110200010102010,
+00001113,
+01201120,
+1110101010002000,
+1110200011102050,
+000000000000000000000008000000300000000000300000,
+01201120,
+1110200010102000,
+1110200010102010,
+01022229,
+,
+,
+90000008,
+00000003,
+0010100011102010,
+0010100011102010,
+0010100011102010,
+0010100011102030,
+0010100022202010,
+0010100022202010,
+0010100022202010,
+0010100022202030,
+0010100011102010,
+0010100011102010,
+0010100011102010,
+0010100011102000,
+10101022,
+10101022,
+10101022,
+10221103,
+0010100022202010,
+0010100022202010,
+0010100022202010,
+0010100022202030,
+00101022,
+10101022,
+10101022,
+10221103,
+0010100022202010,
+0010100011102010,
+0010100022202010,
+0010100011102010,
+05000000,
+,
+,
+000000000000000000000008000000000000000000300000,
+0010101022201010,
+0010101022201010,
+0010101022201010,
+0010101022202030,
+0010101022201010,
+0010101022201010,
+0010101022201010,
+0010101022202030,
+0010101011102010,
+0010101022202010,
+0010101011102010,
+0010101022202030,//90
+
+#GOGOEND
+,
+,
+#END
+
+COURSE:Normal
+LEVEL:6
+BALLOON:21
+SCOREINIT:550
+SCOREDIFF:140
+
+#START
+
+
+#MEASURE 1/4
+#BARLINEOFF
+,
+#MEASURE 4/4
+#BARLINEON
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+11,
+1110,
+11,
+1110,
+11,
+1112,
+11,
+1112,
+1,
+2,
+1,
+2,
+1111,
+1111,
+11101110,
+11101110,
+5,
+000000000000000000000008000000000000000000000000,//26
+
+#GOGOSTART
+1112,
+11101020,
+11101025,
+000000000000000000000008000000000000000000300000,
+0112,
+11101020,
+11101002,
+00000003,
+0112,
+11101020,
+11101025,
+000000000000000000000008000000000000000000300000,
+0112,
+11101020,
+11101002,
+00000009,
+,
+,
+90000008,
+00000003,
+01101001,
+01101001,
+01101001,
+01101003,
+01101002,
+01101002,
+01101002,
+01101003,
+01101002,
+01101001,
+01101002,
+01101000,
+10101022,
+10101022,
+10101022,
+10101003,
+01101011,
+01101011,
+01101011,
+01101003,
+00101022,
+10101022,
+10101022,
+10101003,
+01101011,
+01101011,
+01101011,
+01101001,
+05000000,
+,
+,
+000000000000000000000008000000000000000000300000,
+01101011,
+01101011,
+01101011,
+01102003,
+01101011,
+01101011,
+01101011,
+01102003,
+01101022,
+01101022,
+01101022,
+01101003,//90
+
+#GOGOEND
+,
+,
+#END
+
+COURSE:Easy
+LEVEL:4
+BALLOON:18
+SCOREINIT:500
+SCOREDIFF:120
+
+#START
+
+
+#MEASURE 1/4
+#BARLINEOFF
+,
+#MEASURE 4/4
+#BARLINEON
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+11,
+1,
+11,
+1,
+11,
+1,
+11,
+1,
+1,
+2,
+1,
+2,
+11,
+11,
+1110,
+1110,
+5,
+000000000000000000000008000000000000000000000000,//26
+
+#GOGOSTART
+11,
+1110,
+10101005,
+000000000000000000000008000000000000000000300000,
+01,
+1,
+10101001,
+00000003,
+01,
+1110,
+10101005,
+000000000000000000000008000000000000000000300000,
+01,
+1,
+10101001,
+00000009,
+,
+,
+90000008,
+00000003,
+00101001,
+00101001,
+00101001,
+00101003,
+00101002,
+00101002,
+00101002,
+00101003,
+00101002,
+00101002,
+00101002,
+0110,
+1110,
+1110,
+1110,
+10101003,
+00101001,
+00101001,
+00101001,
+00101003,
+0110,
+1110,
+1110,
+10101003,
+00101001,
+00101001,
+00101001,
+00101001,
+05000000,
+,
+,
+000000000000000000000008000000000000000000300000,
+00101001,
+00101001,
+00101001,
+00101003,
+00101002,
+00101001,
+00101002,
+00101003,
+00101002,
+00101001,
+00101002,
+00101003,//90
+
+#GOGOEND
+,
+,
+#END
