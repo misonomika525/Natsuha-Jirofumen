@@ -1,13 +1,9 @@
-﻿//TJADB Project
-TITLE:Cirno’s Perfect Math Class -⑨th Anniversary Version-
-TITLEJA:チルノのパーフェクトさんすう教室 9周年バージョン
-SUBTITLE:--IOSYS & Happy ⑨Hth Anniversary Friends/Touhou Project
-SUBTITLEJA:
+﻿TITLE:チルノのパーフェクトさんすう教室 9周年バージョン
+SUBTITLE:--東方Projectアレンジ IOSYSと愉快な⑨周年フレンズ
 BPM:350
 WAVE:Cirno’s Perfect Math Class -⑨th Anniversary Version-.ogg
 OFFSET:-1.330
 DEMOSTART:23.280
-BGMOVIE:Cirno’s Perfect Math Class -⑨th Anniversary Version-.mp4
 
 COURSE:Edit
 LEVEL:10
