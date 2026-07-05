@@ -1,6 +1,6 @@
 TITLE:ALL MY HEART -この恋に、わたしの全てを賭げる-
 SUBTITLE:--SUPER HEROINE 彩香 -AYAKA-
-MAKER:Misono Mika
+AUTHOR:TachibanaShiki
 WAVE:ALL MY HEART -kono koi ni, watashi no subete wo kakeru-.ogg
 
 DEMOSTART:61.500
@@ -13,7 +13,7 @@ GENRE:ゲームミュージック
 
 
 COURSE:2
-LEVEL:6
+LEVEL:4
 SCOREINIT:610
 SCOREDIFF:150
 
@@ -90,7 +90,7 @@ SCOREDIFF:150
 
 
 COURSE:3
-LEVEL:9
+LEVEL:8
 SCOREINIT:470
 SCOREDIFF:110
 
